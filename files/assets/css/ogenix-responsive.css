@@ -1469,7 +1469,7 @@
 
     .main-menu__wrapper-inner {
         padding: 0 30px;
-        padding-left: 255px;
+        padding-left: 40px;
     }
 
     .main-header-two__contact-list {
@@ -1516,7 +1516,7 @@
     .main-menu__wrapper-inner {
         justify-content: flex-end;
         padding: 29.5px 30px;
-        padding-left: 255px;
+        padding-left: 40px;
     }
 
     .main-header-two__right {
@@ -1586,12 +1586,12 @@
 
     .main-menu__wrapper-inner {
         padding: 0 30px;
-        padding-left: 255px;
+        padding-left: 40px;
     }
 
     .main-header__top-inner {
         padding: 0px 30px 0px;
-        padding-left: 255px;
+        padding-left: 40px;
     }
 }
 
@@ -1614,12 +1614,12 @@
 
     .main-menu__wrapper-inner {
         padding: 0 30px;
-        padding-left: 255px;
+        padding-left: 40px;
     }
 
     .main-header__top-inner {
         padding: 0px 30px 0px;
-        padding-left: 255px;
+        padding-left: 40px;
     }
 
     .main-menu .main-menu__list>li+li,
