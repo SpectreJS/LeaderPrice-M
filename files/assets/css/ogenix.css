@@ -13975,6 +13975,12 @@ body.boxed-wrapper {
   justify-content: space-between;
 }
 
+@media (max-width: 992px) {
+  .content-grid-footer{
+    grid-template-columns: 1fr;
+  }
+}
+
 .grid-menu-footer{
   display: flex;
   gap: 50px;
